@@ -1,0 +1,22 @@
+{
+  "name": "landing-page",
+  "version": "1.0.0",
+  "description": "Landing page with Bootsrap 5 - Book Promotion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jfvandermousen/landing-page.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jfvandermousen/landing-page/issues"
+  },
+  "homepage": "https://github.com/jfvandermousen/landing-page#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
